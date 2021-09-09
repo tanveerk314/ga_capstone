@@ -1,0 +1,12 @@
+Original Paper: https://arxiv.org/abs/1606.05250
+
+Data + leaderboard: https://rajpurkar.github.io/SQuAD-explorer/
+
+Might need to leard codalabs cause all examples are on that 
+
+Dataset + examples? https://paperswithcode.com/dataset/squad 
+
+
+Transformers to try:
+mobile bert: https://github.com/tensorflow/models/tree/master/official/nlp/projects/mobilebert
+
