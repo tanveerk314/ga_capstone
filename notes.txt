@@ -10,3 +10,9 @@ Dataset + examples? https://paperswithcode.com/dataset/squad
 Transformers to try:
 mobile bert: https://github.com/tensorflow/models/tree/master/official/nlp/projects/mobilebert
 
+<<<<<<< Updated upstream
+=======
+
+Example with pytourch: https://www.kaggle.com/purvasingh/bert-for-answering-queries-related-to-stocks
+
+>>>>>>> Stashed changes

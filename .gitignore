@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ignore checkpoint currently working with
+run3-checkpoint-40790
